@@ -9,3 +9,5 @@ Contributions of any kind are welcome! sparkles
 
 - Internet Protocol version 6 
   - [ IPv6 ](https://github.com/engineerbaz/NetworkingKnowledge/blob/master/IPv6.md)
+- IPv6 is inevitable for Next-generation technologies 5G, IoT, Cloud
+  - [ IPv6 NextGen ](https://github.com/engineerbaz/NetworkingKnowledge/blob/master/IPv6_for_NextGen_Technnologies.md)
